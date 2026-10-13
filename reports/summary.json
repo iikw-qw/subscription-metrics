@@ -1,0 +1,11 @@
+{
+  "customers_ever": 4000,
+  "closing_mrr": 75825.0,
+  "active_customers": 2840,
+  "avg_monthly_logo_churn_last_6m": 0.0403,
+  "net_revenue_retention_last_month": 0.974,
+  "gross_revenue_retention_last_month": 0.952,
+  "arpu": 26.81,
+  "ltv": 666.0,
+  "quick_ratio_last_6m_avg": 2.49
+}
